@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Street
+  - Building
+  - Pedestrian
+  - Natures
   layers:
   - Default
   - TransparentFX
@@ -12,12 +15,12 @@ TagManager:
   - Obstacle
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Walkable
+  - Building
+  - TrafficSignal
+  - StreetLight
+  - Hydrant
+  - Vehicle
   - 
   - 
   - 

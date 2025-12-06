@@ -2,19 +2,6 @@ using UnityEngine;
 
 public class FollowAgent : MonoBehaviour
 {
-    /* public GameObject player;
-
-    [SerializeField] 
-    public Vector3 camOffset;
-    [Range(0.01f, 1.0f)]
-    public float smoothSpeed = 0.125f;
-
-    // LateUpdate viene chiamato successivamente ad Update
-    void LateUpdate()
-    {
-        // Offset della camera rispetto al veicolo (il vettore esprime esattamente la distanza della camera)
-        transform.position = player.transform.position + camOffset;
-    } */
 
     public Transform player; // Trascina qui il Taxi
 
